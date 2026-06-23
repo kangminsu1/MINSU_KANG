@@ -1,6 +1,0 @@
-source;share/pubscore_5/hook/pythonpath.ps1
-source;share/pubscore_5/hook/pythonpath.dsv
-source;share/pubscore_5/hook/pythonpath.sh
-source;share/pubscore_5/hook/ament_prefix_path.ps1
-source;share/pubscore_5/hook/ament_prefix_path.dsv
-source;share/pubscore_5/hook/ament_prefix_path.sh
