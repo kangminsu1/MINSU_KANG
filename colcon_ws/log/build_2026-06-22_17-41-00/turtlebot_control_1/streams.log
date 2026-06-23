@@ -1,0 +1,21 @@
+[0.350s] Invoking command in '/home/user05/colcon_ws/build/turtlebot_control_1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user05/colcon_ws/install/pubscore_5:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/user05/colcon_ws/build/turtlebot_control_1 -- -j12 -l12
+[0.403s] Invoked command in '/home/user05/colcon_ws/build/turtlebot_control_1' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user05/colcon_ws/install/pubscore_5:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/user05/colcon_ws/build/turtlebot_control_1 -- -j12 -l12
+[0.404s] Invoking command in '/home/user05/colcon_ws/build/turtlebot_control_1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user05/colcon_ws/install/pubscore_5:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/user05/colcon_ws/build/turtlebot_control_1
+[0.417s] -- Install configuration: ""
+[0.418s] -- Up-to-date: /home/user05/colcon_ws/install/turtlebot_control_1/lib/turtlebot_control_1/avoidance.py
+[0.418s] -- Up-to-date: /home/user05/colcon_ws/install/turtlebot_control_1/share/ament_index/resource_index/package_run_dependencies/turtlebot_control_1
+[0.418s] -- Up-to-date: /home/user05/colcon_ws/install/turtlebot_control_1/share/ament_index/resource_index/parent_prefix_path/turtlebot_control_1
+[0.419s] -- Up-to-date: /home/user05/colcon_ws/install/turtlebot_control_1/share/turtlebot_control_1/environment/ament_prefix_path.sh
+[0.420s] -- Up-to-date: /home/user05/colcon_ws/install/turtlebot_control_1/share/turtlebot_control_1/environment/ament_prefix_path.dsv
+[0.420s] -- Up-to-date: /home/user05/colcon_ws/install/turtlebot_control_1/share/turtlebot_control_1/environment/path.sh
+[0.420s] -- Up-to-date: /home/user05/colcon_ws/install/turtlebot_control_1/share/turtlebot_control_1/environment/path.dsv
+[0.420s] -- Up-to-date: /home/user05/colcon_ws/install/turtlebot_control_1/share/turtlebot_control_1/local_setup.bash
+[0.421s] -- Up-to-date: /home/user05/colcon_ws/install/turtlebot_control_1/share/turtlebot_control_1/local_setup.sh
+[0.421s] -- Up-to-date: /home/user05/colcon_ws/install/turtlebot_control_1/share/turtlebot_control_1/local_setup.zsh
+[0.421s] -- Up-to-date: /home/user05/colcon_ws/install/turtlebot_control_1/share/turtlebot_control_1/local_setup.dsv
+[0.421s] -- Installing: /home/user05/colcon_ws/install/turtlebot_control_1/share/turtlebot_control_1/package.dsv
+[0.421s] -- Up-to-date: /home/user05/colcon_ws/install/turtlebot_control_1/share/ament_index/resource_index/packages/turtlebot_control_1
+[0.421s] -- Up-to-date: /home/user05/colcon_ws/install/turtlebot_control_1/share/turtlebot_control_1/cmake/turtlebot_control_1Config.cmake
+[0.421s] -- Up-to-date: /home/user05/colcon_ws/install/turtlebot_control_1/share/turtlebot_control_1/cmake/turtlebot_control_1Config-version.cmake
+[0.422s] -- Up-to-date: /home/user05/colcon_ws/install/turtlebot_control_1/share/turtlebot_control_1/package.xml
+[0.422s] Invoked command in '/home/user05/colcon_ws/build/turtlebot_control_1' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user05/colcon_ws/install/pubscore_5:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/user05/colcon_ws/build/turtlebot_control_1

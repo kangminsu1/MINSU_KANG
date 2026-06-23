@@ -1,0 +1,9 @@
+/home/user05/colcon_ws/build/turtlebot_control_1/CMakeFiles/uninstall.dir
+/home/user05/colcon_ws/build/turtlebot_control_1/CMakeFiles/turtlebot_control_1_uninstall.dir
+/home/user05/colcon_ws/build/turtlebot_control_1/CMakeFiles/test.dir
+/home/user05/colcon_ws/build/turtlebot_control_1/CMakeFiles/edit_cache.dir
+/home/user05/colcon_ws/build/turtlebot_control_1/CMakeFiles/rebuild_cache.dir
+/home/user05/colcon_ws/build/turtlebot_control_1/CMakeFiles/list_install_components.dir
+/home/user05/colcon_ws/build/turtlebot_control_1/CMakeFiles/install.dir
+/home/user05/colcon_ws/build/turtlebot_control_1/CMakeFiles/install/local.dir
+/home/user05/colcon_ws/build/turtlebot_control_1/CMakeFiles/install/strip.dir

@@ -1,0 +1,6 @@
+[31mCMake Error at cmake_install.cmake:46 (file):
+  file INSTALL cannot find
+  "/home/user05/colcon_ws/src/turtlebot_control_1/avoidance.py": No such file
+  or directory.
+
+[0m

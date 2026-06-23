@@ -1,0 +1,7 @@
+[0.000000] (-) TimerEvent: {}
+[0.000251] (-) JobUnselected: {'identifier': 'custom_interfaces'}
+[0.000286] (-) JobUnselected: {'identifier': 'msg_service'}
+[0.000415] (-) JobUnselected: {'identifier': 'pubscore_5'}
+[0.000470] (-) JobUnselected: {'identifier': 'srvmsg'}
+[0.000494] (-) JobUnselected: {'identifier': 'turtlebot_control_1'}
+[0.000640] (-) EventReactorShutdown: {}

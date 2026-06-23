@@ -1,0 +1,14 @@
+running egg_info
+writing ../../build/pubscore_5/pubscore_5.egg-info/PKG-INFO
+writing dependency_links to ../../build/pubscore_5/pubscore_5.egg-info/dependency_links.txt
+writing entry points to ../../build/pubscore_5/pubscore_5.egg-info/entry_points.txt
+writing requirements to ../../build/pubscore_5/pubscore_5.egg-info/requires.txt
+writing top-level names to ../../build/pubscore_5/pubscore_5.egg-info/top_level.txt
+reading manifest file '../../build/pubscore_5/pubscore_5.egg-info/SOURCES.txt'
+writing manifest file '../../build/pubscore_5/pubscore_5.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+error: can't copy 'resource/pubscore_5': doesn't exist or not a regular file

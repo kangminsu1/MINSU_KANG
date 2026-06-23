@@ -1,0 +1,294 @@
+[0.007s] Invoking command in '/home/user05/colcon_ws/build/custom_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/user05/colcon_ws/src/5_custom_interfaces -DCMAKE_INSTALL_PREFIX=/home/user05/colcon_ws/install/custom_interfaces
+[0.100s] -- The C compiler identification is GNU 13.3.0
+[0.146s] -- The CXX compiler identification is GNU 13.3.0
+[0.159s] -- Detecting C compiler ABI info
+[0.230s] -- Detecting C compiler ABI info - done
+[0.239s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.239s] -- Detecting C compile features
+[0.239s] -- Detecting C compile features - done
+[0.247s] -- Detecting CXX compiler ABI info
+[0.322s] -- Detecting CXX compiler ABI info - done
+[0.332s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.332s] -- Detecting CXX compile features
+[0.332s] -- Detecting CXX compile features - done
+[0.336s] -- Found ament_cmake: 2.5.6 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.486s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[0.599s] -- Found rosidl_default_generators: 1.6.1 (/opt/ros/jazzy/share/rosidl_default_generators/cmake)
+[0.606s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.665s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.720s] -- Found rosidl_adapter: 4.6.9 (/opt/ros/jazzy/share/rosidl_adapter/cmake)
+[0.725s] -- Found rosidl_default_runtime: 1.6.1 (/opt/ros/jazzy/share/rosidl_default_runtime/cmake)
+[1.264s] -- Found ament_cmake_ros: 0.12.1 (/opt/ros/jazzy/share/ament_cmake_ros/cmake)
+[1.626s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.105s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.108s] -- Found python_cmake_module: 0.11.1 (/opt/ros/jazzy/share/python_cmake_module/cmake)
+[2.221s] -- Found PythonExtra: /usr/bin/python3  
+[2.583s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter Development NumPy Development.Module Development.Embed 
+[2.634s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[2.641s] -- Configuring done (2.6s)
+[2.673s] -- Generating done (0.0s)
+[2.684s] -- Build files have been written to: /home/user05/colcon_ws/build/custom_interfaces
+[2.692s] Invoked command in '/home/user05/colcon_ws/build/custom_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/user05/colcon_ws/src/5_custom_interfaces -DCMAKE_INSTALL_PREFIX=/home/user05/colcon_ws/install/custom_interfaces
+[2.693s] Invoking command in '/home/user05/colcon_ws/build/custom_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/user05/colcon_ws/build/custom_interfaces -- -j12 -l12
+[2.734s] [  4%] [34m[1mGenerating Rust code for ROS interfaces[0m
+[2.734s] [  4%] [34m[1mGenerating type hashes for ROS interfaces[0m
+[2.742s] [  4%] Built target ament_cmake_python_copy_custom_interfaces
+[2.930s] [  4%] Built target custom_interfaces__rosidl_generator_type_description
+[2.939s] [  6%] [34m[1mGenerating C code for ROS interfaces[0m
+[2.951s] [  8%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[2.954s] [  8%] Built target custom_interfaces__rs
+[2.963s] running egg_info
+[2.964s] creating custom_interfaces.egg-info
+[2.985s] writing custom_interfaces.egg-info/PKG-INFO
+[2.985s] writing dependency_links to custom_interfaces.egg-info/dependency_links.txt
+[2.986s] writing top-level names to custom_interfaces.egg-info/top_level.txt
+[2.986s] writing manifest file 'custom_interfaces.egg-info/SOURCES.txt'
+[3.051s] reading manifest file 'custom_interfaces.egg-info/SOURCES.txt'
+[3.052s] writing manifest file 'custom_interfaces.egg-info/SOURCES.txt'
+[3.076s] [  8%] Built target ament_cmake_python_build_custom_interfaces_egg
+[3.226s] [  8%] Built target custom_interfaces__cpp
+[3.270s] [ 15%] [32mBuilding C object CMakeFiles/custom_interfaces__rosidl_generator_c.dir/rosidl_generator_c/custom_interfaces/srv/detail/add_two_ints__functions.c.o[0m
+[3.270s] [ 20%] [32mBuilding C object CMakeFiles/custom_interfaces__rosidl_generator_c.dir/rosidl_generator_c/custom_interfaces/srv/detail/add_two_ints__description.c.o[0m
+[3.270s] [ 20%] [32mBuilding C object CMakeFiles/custom_interfaces__rosidl_generator_c.dir/rosidl_generator_c/custom_interfaces/msg/detail/num__type_support.c.o[0m
+[3.270s] [ 15%] [32mBuilding C object CMakeFiles/custom_interfaces__rosidl_generator_c.dir/rosidl_generator_c/custom_interfaces/msg/detail/num__description.c.o[0m
+[3.270s] [ 22%] [32mBuilding C object CMakeFiles/custom_interfaces__rosidl_generator_c.dir/rosidl_generator_c/custom_interfaces/srv/detail/add_two_ints__type_support.c.o[0m
+[3.270s] [ 22%] [32mBuilding C object CMakeFiles/custom_interfaces__rosidl_generator_c.dir/rosidl_generator_c/custom_interfaces/msg/detail/num__functions.c.o[0m
+[3.342s] [ 24%] [32m[1mLinking C shared library libcustom_interfaces__rosidl_generator_c.so[0m
+[3.372s] [ 24%] Built target custom_interfaces__rosidl_generator_c
+[3.381s] [ 31%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[3.381s] [ 31%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[3.381s] [ 31%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[3.381s] [ 33%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[3.384s] [ 37%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[3.384s] [ 37%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[3.634s] [ 42%] [32mBuilding CXX object CMakeFiles/custom_interfaces__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/custom_interfaces/msg/num__type_support.cpp.o[0m
+[3.635s] [ 42%] [32mBuilding CXX object CMakeFiles/custom_interfaces__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/custom_interfaces/srv/add_two_ints__type_support.cpp.o[0m
+[3.637s] [ 46%] [32mBuilding CXX object CMakeFiles/custom_interfaces__rosidl_typesupport_c.dir/rosidl_typesupport_c/custom_interfaces/msg/num__type_support.cpp.o[0m
+[3.637s] [ 46%] [32mBuilding CXX object CMakeFiles/custom_interfaces__rosidl_typesupport_c.dir/rosidl_typesupport_c/custom_interfaces/srv/add_two_ints__type_support.cpp.o[0m
+[3.683s] [ 51%] [32mBuilding CXX object CMakeFiles/custom_interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/custom_interfaces/srv/detail/add_two_ints__type_support.cpp.o[0m
+[3.683s] [ 51%] [32mBuilding CXX object CMakeFiles/custom_interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/custom_interfaces/msg/detail/num__type_support.cpp.o[0m
+[3.695s] [ 55%] [32mBuilding C object CMakeFiles/custom_interfaces__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/custom_interfaces/msg/detail/num__type_support.c.o[0m
+[3.695s] [ 55%] [32mBuilding C object CMakeFiles/custom_interfaces__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/custom_interfaces/srv/detail/add_two_ints__type_support.c.o[0m
+[3.704s] [ 57%] [32m[1mLinking CXX shared library libcustom_interfaces__rosidl_typesupport_c.so[0m
+[3.753s] [ 62%] [32mBuilding CXX object CMakeFiles/custom_interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/custom_interfaces/srv/detail/dds_fastrtps/add_two_ints__type_support.cpp.o[0m
+[3.753s] [ 62%] [32mBuilding CXX object CMakeFiles/custom_interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/custom_interfaces/msg/detail/dds_fastrtps/num__type_support.cpp.o[0m
+[3.761s] [ 62%] Built target custom_interfaces__rosidl_typesupport_c
+[3.765s] [ 64%] [32m[1mLinking C shared library libcustom_interfaces__rosidl_typesupport_introspection_c.so[0m
+[3.767s] [ 66%] [32mBuilding CXX object CMakeFiles/custom_interfaces__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/custom_interfaces/srv/detail/add_two_ints__type_support_c.cpp.o[0m
+[3.768s] [ 68%] [32mBuilding CXX object CMakeFiles/custom_interfaces__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/custom_interfaces/msg/detail/num__type_support_c.cpp.o[0m
+[3.806s] [ 68%] Built target custom_interfaces__rosidl_typesupport_introspection_c
+[4.105s] [ 71%] [32m[1mLinking CXX shared library libcustom_interfaces__rosidl_typesupport_cpp.so[0m
+[4.209s] [ 71%] Built target custom_interfaces__rosidl_typesupport_cpp
+[4.248s] [ 73%] [32m[1mLinking CXX shared library libcustom_interfaces__rosidl_typesupport_introspection_cpp.so[0m
+[4.283s] [ 75%] [32m[1mLinking CXX shared library libcustom_interfaces__rosidl_typesupport_fastrtps_c.so[0m
+[4.328s] [ 75%] Built target custom_interfaces__rosidl_typesupport_introspection_cpp
+[4.333s] [ 75%] Built target custom_interfaces__rosidl_typesupport_fastrtps_c
+[4.424s] [ 77%] [32m[1mLinking CXX shared library libcustom_interfaces__rosidl_typesupport_fastrtps_cpp.so[0m
+[4.497s] [ 77%] Built target custom_interfaces__rosidl_typesupport_fastrtps_cpp
+[4.514s] [ 77%] Built target custom_interfaces
+[4.531s] [ 80%] [34m[1mGenerating Python code for ROS interfaces[0m
+[4.903s] [ 80%] Built target custom_interfaces__py
+[4.920s] [ 84%] [32mBuilding C object CMakeFiles/custom_interfaces__rosidl_generator_py.dir/rosidl_generator_py/custom_interfaces/msg/_num_s.c.o[0m
+[4.920s] [ 84%] [32mBuilding C object CMakeFiles/custom_interfaces__rosidl_generator_py.dir/rosidl_generator_py/custom_interfaces/srv/_add_two_ints_s.c.o[0m
+[5.054s] [ 86%] [32m[1mLinking C shared library libcustom_interfaces__rosidl_generator_py.so[0m
+[5.087s] [ 86%] Built target custom_interfaces__rosidl_generator_py
+[5.103s] [ 93%] [32mBuilding C object CMakeFiles/custom_interfaces_s__rosidl_typesupport_introspection_c.dir/rosidl_generator_py/custom_interfaces/_custom_interfaces_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[5.103s] [ 93%] [32mBuilding C object CMakeFiles/custom_interfaces_s__rosidl_typesupport_c.dir/rosidl_generator_py/custom_interfaces/_custom_interfaces_s.ep.rosidl_typesupport_c.c.o[0m
+[5.103s] [ 93%] [32mBuilding C object CMakeFiles/custom_interfaces_s__rosidl_typesupport_fastrtps_c.dir/rosidl_generator_py/custom_interfaces/_custom_interfaces_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[5.198s] [ 95%] [32m[1mLinking C shared module rosidl_generator_py/custom_interfaces/custom_interfaces_s__rosidl_typesupport_c.so[0m
+[5.200s] [ 97%] [32m[1mLinking C shared module rosidl_generator_py/custom_interfaces/custom_interfaces_s__rosidl_typesupport_introspection_c.so[0m
+[5.216s] [100%] [32m[1mLinking C shared module rosidl_generator_py/custom_interfaces/custom_interfaces_s__rosidl_typesupport_fastrtps_c.so[0m
+[5.223s] [100%] Built target custom_interfaces_s__rosidl_typesupport_c
+[5.227s] [100%] Built target custom_interfaces_s__rosidl_typesupport_introspection_c
+[5.242s] [100%] Built target custom_interfaces_s__rosidl_typesupport_fastrtps_c
+[5.251s] Invoked command in '/home/user05/colcon_ws/build/custom_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/user05/colcon_ws/build/custom_interfaces -- -j12 -l12
+[5.259s] Invoking command in '/home/user05/colcon_ws/build/custom_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/user05/colcon_ws/build/custom_interfaces
+[5.266s] -- Install configuration: ""
+[5.266s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/share/ament_index/resource_index/rosidl_interfaces/custom_interfaces
+[5.266s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/share/custom_interfaces/msg/Num.json
+[5.266s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/share/custom_interfaces/srv/AddTwoInts.json
+[5.266s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces
+[5.266s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg
+[5.266s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/num.h
+[5.266s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/rosidl_generator_c__visibility_control.h
+[5.267s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/detail
+[5.267s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/detail/num__functions.h
+[5.267s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/detail/num__type_support.h
+[5.267s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/detail/num__functions.c
+[5.267s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/detail/num__type_support.c
+[5.267s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/detail/num__description.c
+[5.267s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/detail/num__struct.h
+[5.267s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/srv
+[5.267s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/srv/add_two_ints.h
+[5.268s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/srv/detail
+[5.268s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/srv/detail/add_two_ints__functions.c
+[5.268s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/srv/detail/add_two_ints__struct.h
+[5.268s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/srv/detail/add_two_ints__type_support.h
+[5.268s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/srv/detail/add_two_ints__description.c
+[5.268s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/srv/detail/add_two_ints__functions.h
+[5.268s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/srv/detail/add_two_ints__type_support.c
+[5.268s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/share/custom_interfaces/environment/library_path.sh
+[5.268s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/share/custom_interfaces/environment/library_path.dsv
+[5.268s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/lib/libcustom_interfaces__rosidl_generator_c.so
+[5.268s] -- Set non-toolchain portion of runtime path of "/home/user05/colcon_ws/install/custom_interfaces/lib/libcustom_interfaces__rosidl_generator_c.so" to ""
+[5.268s] -- Up-to-date: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces
+[5.269s] -- Up-to-date: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg
+[5.269s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[5.269s] -- Up-to-date: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/detail
+[5.269s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/detail/num__rosidl_typesupport_fastrtps_c.h
+[5.269s] -- Up-to-date: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/srv
+[5.269s] -- Up-to-date: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/srv/detail
+[5.269s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/srv/detail/add_two_ints__rosidl_typesupport_fastrtps_c.h
+[5.269s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/lib/libcustom_interfaces__rosidl_typesupport_fastrtps_c.so
+[5.270s] -- Set non-toolchain portion of runtime path of "/home/user05/colcon_ws/install/custom_interfaces/lib/libcustom_interfaces__rosidl_typesupport_fastrtps_c.so" to ""
+[5.270s] -- Up-to-date: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces
+[5.270s] -- Up-to-date: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg
+[5.270s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[5.270s] -- Up-to-date: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/detail
+[5.270s] -- Up-to-date: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/detail/num__type_support.c
+[5.270s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/detail/num__rosidl_typesupport_introspection_c.h
+[5.270s] -- Up-to-date: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/srv
+[5.270s] -- Up-to-date: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/srv/detail
+[5.270s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/srv/detail/add_two_ints__rosidl_typesupport_introspection_c.h
+[5.271s] -- Up-to-date: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/srv/detail/add_two_ints__type_support.c
+[5.271s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/lib/libcustom_interfaces__rosidl_typesupport_introspection_c.so
+[5.271s] -- Set non-toolchain portion of runtime path of "/home/user05/colcon_ws/install/custom_interfaces/lib/libcustom_interfaces__rosidl_typesupport_introspection_c.so" to ""
+[5.271s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/lib/libcustom_interfaces__rosidl_typesupport_c.so
+[5.271s] -- Set non-toolchain portion of runtime path of "/home/user05/colcon_ws/install/custom_interfaces/lib/libcustom_interfaces__rosidl_typesupport_c.so" to ""
+[5.271s] -- Up-to-date: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces
+[5.271s] -- Up-to-date: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg
+[5.271s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/num.hpp
+[5.271s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/rosidl_generator_cpp__visibility_control.hpp
+[5.271s] -- Up-to-date: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/detail
+[5.271s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/detail/num__type_support.hpp
+[5.271s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/detail/num__builder.hpp
+[5.272s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/detail/num__struct.hpp
+[5.272s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/detail/num__traits.hpp
+[5.272s] -- Up-to-date: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/srv
+[5.272s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/srv/add_two_ints.hpp
+[5.272s] -- Up-to-date: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/srv/detail
+[5.272s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/srv/detail/add_two_ints__struct.hpp
+[5.272s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/srv/detail/add_two_ints__traits.hpp
+[5.272s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/srv/detail/add_two_ints__type_support.hpp
+[5.272s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/srv/detail/add_two_ints__builder.hpp
+[5.272s] -- Up-to-date: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces
+[5.272s] -- Up-to-date: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg
+[5.272s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[5.273s] -- Up-to-date: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/detail
+[5.273s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/detail/num__rosidl_typesupport_fastrtps_cpp.hpp
+[5.273s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/detail/dds_fastrtps
+[5.273s] -- Up-to-date: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/srv
+[5.273s] -- Up-to-date: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/srv/detail
+[5.273s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/srv/detail/add_two_ints__rosidl_typesupport_fastrtps_cpp.hpp
+[5.273s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/srv/detail/dds_fastrtps
+[5.273s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/lib/libcustom_interfaces__rosidl_typesupport_fastrtps_cpp.so
+[5.273s] -- Set non-toolchain portion of runtime path of "/home/user05/colcon_ws/install/custom_interfaces/lib/libcustom_interfaces__rosidl_typesupport_fastrtps_cpp.so" to ""
+[5.273s] -- Up-to-date: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces
+[5.273s] -- Up-to-date: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg
+[5.274s] -- Up-to-date: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/detail
+[5.274s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/detail/num__type_support.cpp
+[5.274s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/detail/num__rosidl_typesupport_introspection_cpp.hpp
+[5.274s] -- Up-to-date: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/srv
+[5.274s] -- Up-to-date: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/srv/detail
+[5.274s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/srv/detail/add_two_ints__rosidl_typesupport_introspection_cpp.hpp
+[5.274s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/srv/detail/add_two_ints__type_support.cpp
+[5.274s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/lib/libcustom_interfaces__rosidl_typesupport_introspection_cpp.so
+[5.274s] -- Set non-toolchain portion of runtime path of "/home/user05/colcon_ws/install/custom_interfaces/lib/libcustom_interfaces__rosidl_typesupport_introspection_cpp.so" to ""
+[5.274s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/lib/libcustom_interfaces__rosidl_typesupport_cpp.so
+[5.274s] -- Set non-toolchain portion of runtime path of "/home/user05/colcon_ws/install/custom_interfaces/lib/libcustom_interfaces__rosidl_typesupport_cpp.so" to ""
+[5.274s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/share/custom_interfaces/environment/pythonpath.sh
+[5.274s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/share/custom_interfaces/environment/pythonpath.dsv
+[5.275s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/lib/python3.12/site-packages/custom_interfaces-0.0.0-py3.12.egg-info
+[5.275s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/lib/python3.12/site-packages/custom_interfaces-0.0.0-py3.12.egg-info/dependency_links.txt
+[5.275s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/lib/python3.12/site-packages/custom_interfaces-0.0.0-py3.12.egg-info/SOURCES.txt
+[5.275s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/lib/python3.12/site-packages/custom_interfaces-0.0.0-py3.12.egg-info/PKG-INFO
+[5.275s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/lib/python3.12/site-packages/custom_interfaces-0.0.0-py3.12.egg-info/top_level.txt
+[5.275s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/lib/python3.12/site-packages/custom_interfaces
+[5.275s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/lib/python3.12/site-packages/custom_interfaces/custom_interfaces_s__rosidl_typesupport_introspection_c.so
+[5.275s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/lib/python3.12/site-packages/custom_interfaces/_custom_interfaces_s.ep.rosidl_typesupport_introspection_c.c
+[5.275s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/lib/python3.12/site-packages/custom_interfaces/custom_interfaces_s__rosidl_typesupport_fastrtps_c.so
+[5.275s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/lib/python3.12/site-packages/custom_interfaces/msg
+[5.275s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/lib/python3.12/site-packages/custom_interfaces/msg/_num_s.c
+[5.275s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/lib/python3.12/site-packages/custom_interfaces/msg/_num.py
+[5.275s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/lib/python3.12/site-packages/custom_interfaces/msg/__init__.py
+[5.275s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/lib/python3.12/site-packages/custom_interfaces/custom_interfaces_s__rosidl_typesupport_c.so
+[5.275s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/lib/python3.12/site-packages/custom_interfaces/_custom_interfaces_s.ep.rosidl_typesupport_c.c
+[5.276s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/lib/python3.12/site-packages/custom_interfaces/srv
+[5.276s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/lib/python3.12/site-packages/custom_interfaces/srv/_add_two_ints_s.c
+[5.276s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/lib/python3.12/site-packages/custom_interfaces/srv/_add_two_ints.py
+[5.276s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/lib/python3.12/site-packages/custom_interfaces/srv/__init__.py
+[5.276s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/lib/python3.12/site-packages/custom_interfaces/_custom_interfaces_s.ep.rosidl_typesupport_fastrtps_c.c
+[5.276s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/lib/python3.12/site-packages/custom_interfaces/__init__.py
+[5.309s] Listing '/home/user05/colcon_ws/install/custom_interfaces/lib/python3.12/site-packages/custom_interfaces'...
+[5.310s] Compiling '/home/user05/colcon_ws/install/custom_interfaces/lib/python3.12/site-packages/custom_interfaces/__init__.py'...
+[5.310s] Listing '/home/user05/colcon_ws/install/custom_interfaces/lib/python3.12/site-packages/custom_interfaces/msg'...
+[5.310s] Compiling '/home/user05/colcon_ws/install/custom_interfaces/lib/python3.12/site-packages/custom_interfaces/msg/__init__.py'...
+[5.310s] Compiling '/home/user05/colcon_ws/install/custom_interfaces/lib/python3.12/site-packages/custom_interfaces/msg/_num.py'...
+[5.310s] Listing '/home/user05/colcon_ws/install/custom_interfaces/lib/python3.12/site-packages/custom_interfaces/srv'...
+[5.310s] Compiling '/home/user05/colcon_ws/install/custom_interfaces/lib/python3.12/site-packages/custom_interfaces/srv/__init__.py'...
+[5.310s] Compiling '/home/user05/colcon_ws/install/custom_interfaces/lib/python3.12/site-packages/custom_interfaces/srv/_add_two_ints.py'...
+[5.315s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/lib/python3.12/site-packages/custom_interfaces/custom_interfaces_s__rosidl_typesupport_fastrtps_c.so
+[5.315s] -- Set non-toolchain portion of runtime path of "/home/user05/colcon_ws/install/custom_interfaces/lib/python3.12/site-packages/custom_interfaces/custom_interfaces_s__rosidl_typesupport_fastrtps_c.so" to ""
+[5.315s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/lib/python3.12/site-packages/custom_interfaces/custom_interfaces_s__rosidl_typesupport_introspection_c.so
+[5.315s] -- Set non-toolchain portion of runtime path of "/home/user05/colcon_ws/install/custom_interfaces/lib/python3.12/site-packages/custom_interfaces/custom_interfaces_s__rosidl_typesupport_introspection_c.so" to ""
+[5.316s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/lib/python3.12/site-packages/custom_interfaces/custom_interfaces_s__rosidl_typesupport_c.so
+[5.316s] -- Set non-toolchain portion of runtime path of "/home/user05/colcon_ws/install/custom_interfaces/lib/python3.12/site-packages/custom_interfaces/custom_interfaces_s__rosidl_typesupport_c.so" to ""
+[5.316s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/lib/libcustom_interfaces__rosidl_generator_py.so
+[5.316s] -- Set non-toolchain portion of runtime path of "/home/user05/colcon_ws/install/custom_interfaces/lib/libcustom_interfaces__rosidl_generator_py.so" to ""
+[5.316s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/share/ament_index/resource_index/rust_packages/custom_interfaces
+[5.316s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/share/custom_interfaces/rust
+[5.316s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/share/custom_interfaces/rust/Cargo.toml
+[5.316s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/share/custom_interfaces/rust/src
+[5.317s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/share/custom_interfaces/rust/src/lib.rs
+[5.317s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/share/custom_interfaces/rust/src/msg
+[5.317s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/share/custom_interfaces/rust/src/msg/rmw.rs
+[5.317s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/share/custom_interfaces/rust/src/srv.rs
+[5.317s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/share/custom_interfaces/rust/src/msg.rs
+[5.317s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/share/custom_interfaces/rust/src/srv
+[5.317s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/share/custom_interfaces/rust/src/srv/rmw.rs
+[5.317s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/share/custom_interfaces/rust/build.rs
+[5.317s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/share/custom_interfaces/msg/Num.idl
+[5.317s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/share/custom_interfaces/srv/AddTwoInts.idl
+[5.318s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/share/custom_interfaces/msg/Num.msg
+[5.318s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/share/custom_interfaces/srv/AddTwoInts.srv
+[5.318s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/share/ament_index/resource_index/package_run_dependencies/custom_interfaces
+[5.318s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/share/ament_index/resource_index/parent_prefix_path/custom_interfaces
+[5.318s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/share/custom_interfaces/environment/ament_prefix_path.sh
+[5.318s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/share/custom_interfaces/environment/ament_prefix_path.dsv
+[5.318s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/share/custom_interfaces/environment/path.sh
+[5.318s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/share/custom_interfaces/environment/path.dsv
+[5.318s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/share/custom_interfaces/local_setup.bash
+[5.318s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/share/custom_interfaces/local_setup.sh
+[5.319s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/share/custom_interfaces/local_setup.zsh
+[5.319s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/share/custom_interfaces/local_setup.dsv
+[5.319s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/share/custom_interfaces/package.dsv
+[5.319s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/share/ament_index/resource_index/packages/custom_interfaces
+[5.319s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/share/custom_interfaces/cmake/export_custom_interfaces__rosidl_generator_cExport.cmake
+[5.319s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/share/custom_interfaces/cmake/export_custom_interfaces__rosidl_generator_cExport-noconfig.cmake
+[5.319s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/share/custom_interfaces/cmake/export_custom_interfaces__rosidl_typesupport_fastrtps_cExport.cmake
+[5.319s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/share/custom_interfaces/cmake/export_custom_interfaces__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[5.320s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/share/custom_interfaces/cmake/custom_interfaces__rosidl_typesupport_introspection_cExport.cmake
+[5.320s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/share/custom_interfaces/cmake/custom_interfaces__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[5.320s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/share/custom_interfaces/cmake/custom_interfaces__rosidl_typesupport_cExport.cmake
+[5.320s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/share/custom_interfaces/cmake/custom_interfaces__rosidl_typesupport_cExport-noconfig.cmake
+[5.320s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/share/custom_interfaces/cmake/export_custom_interfaces__rosidl_generator_cppExport.cmake
+[5.320s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/share/custom_interfaces/cmake/export_custom_interfaces__rosidl_typesupport_fastrtps_cppExport.cmake
+[5.320s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/share/custom_interfaces/cmake/export_custom_interfaces__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[5.321s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/share/custom_interfaces/cmake/custom_interfaces__rosidl_typesupport_introspection_cppExport.cmake
+[5.321s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/share/custom_interfaces/cmake/custom_interfaces__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[5.321s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/share/custom_interfaces/cmake/custom_interfaces__rosidl_typesupport_cppExport.cmake
+[5.321s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/share/custom_interfaces/cmake/custom_interfaces__rosidl_typesupport_cppExport-noconfig.cmake
+[5.321s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/share/custom_interfaces/cmake/export_custom_interfaces__rosidl_generator_pyExport.cmake
+[5.321s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/share/custom_interfaces/cmake/export_custom_interfaces__rosidl_generator_pyExport-noconfig.cmake
+[5.321s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/share/custom_interfaces/cmake/rosidl_cmake-extras.cmake
+[5.321s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/share/custom_interfaces/cmake/ament_cmake_export_dependencies-extras.cmake
+[5.322s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/share/custom_interfaces/cmake/ament_cmake_export_include_directories-extras.cmake
+[5.322s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/share/custom_interfaces/cmake/ament_cmake_export_libraries-extras.cmake
+[5.322s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/share/custom_interfaces/cmake/ament_cmake_export_targets-extras.cmake
+[5.322s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/share/custom_interfaces/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[5.322s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/share/custom_interfaces/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[5.322s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/share/custom_interfaces/cmake/rosidl_cmake_aggregate_target-extras.cmake
+[5.323s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/share/custom_interfaces/cmake/custom_interfacesConfig.cmake
+[5.323s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/share/custom_interfaces/cmake/custom_interfacesConfig-version.cmake
+[5.324s] -- Installing: /home/user05/colcon_ws/install/custom_interfaces/share/custom_interfaces/package.xml
+[5.324s] Invoked command in '/home/user05/colcon_ws/build/custom_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/user05/colcon_ws/build/custom_interfaces

@@ -1,0 +1,9 @@
+/home/user05/colcon_ws/build/srvmsg/CMakeFiles/uninstall.dir
+/home/user05/colcon_ws/build/srvmsg/CMakeFiles/srvmsg_uninstall.dir
+/home/user05/colcon_ws/build/srvmsg/CMakeFiles/test.dir
+/home/user05/colcon_ws/build/srvmsg/CMakeFiles/edit_cache.dir
+/home/user05/colcon_ws/build/srvmsg/CMakeFiles/rebuild_cache.dir
+/home/user05/colcon_ws/build/srvmsg/CMakeFiles/list_install_components.dir
+/home/user05/colcon_ws/build/srvmsg/CMakeFiles/install.dir
+/home/user05/colcon_ws/build/srvmsg/CMakeFiles/install/local.dir
+/home/user05/colcon_ws/build/srvmsg/CMakeFiles/install/strip.dir

@@ -1,0 +1,2401 @@
+transforms:
+- header:
+    stamp:
+      sec: 459
+      nanosec: 380000000
+    frame_id: odom
+  child_frame_id: base_footprint
+  transform:
+    translation:
+      x: 0.06735917500970552
+      y: 1.5538657235067315
+      z: 0.0
+    rotation:
+      x: -0.0
+      y: 0.0
+      z: 0.726333573292687
+      w: -0.6873423748815992
+---
+transforms:
+- header:
+    stamp:
+      sec: 459
+      nanosec: 400000000
+    frame_id: odom
+  child_frame_id: base_footprint
+  transform:
+    translation:
+      x: 0.06735917500970552
+      y: 1.5538657235067315
+      z: 0.0
+    rotation:
+      x: -0.0
+      y: 0.0
+      z: 0.726333573292687
+      w: -0.6873423748815992
+---
+transforms:
+- header:
+    stamp:
+      sec: 459
+      nanosec: 400000000
+    frame_id: /base_link
+  child_frame_id: /wheel_left_link
+  transform:
+    translation:
+      x: 0.0
+      y: 0.08
+      z: 0.023
+    rotation:
+      x: 0.10329509506233822
+      y: 0.6992366981077981
+      z: 0.6997937408499438
+      w: -0.10337738448330172
+- header:
+    stamp:
+      sec: 459
+      nanosec: 400000000
+    frame_id: /base_link
+  child_frame_id: /wheel_right_link
+  transform:
+    translation:
+      x: 0.0
+      y: -0.08
+      z: 0.023
+    rotation:
+      x: -0.6390883406454427
+      y: 0.30194027471618967
+      z: 0.3021808136339086
+      w: 0.6395974665576121
+---
+transforms:
+- header:
+    stamp:
+      sec: 459
+      nanosec: 420000000
+    frame_id: odom
+  child_frame_id: base_footprint
+  transform:
+    translation:
+      x: 0.06735917500970552
+      y: 1.5538657235067315
+      z: 0.0
+    rotation:
+      x: -0.0
+      y: 0.0
+      z: 0.726333573292687
+      w: -0.6873423748815992
+---
+transforms:
+- header:
+    stamp:
+      sec: 459
+      nanosec: 440000000
+    frame_id: odom
+  child_frame_id: base_footprint
+  transform:
+    translation:
+      x: 0.06735917500970552
+      y: 1.5538657235067315
+      z: 0.0
+    rotation:
+      x: -0.0
+      y: 0.0
+      z: 0.726333573292687
+      w: -0.6873423748815992
+---
+transforms:
+- header:
+    stamp:
+      sec: 459
+      nanosec: 450000000
+    frame_id: /base_link
+  child_frame_id: /wheel_left_link
+  transform:
+    translation:
+      x: 0.0
+      y: 0.08
+      z: 0.023
+    rotation:
+      x: 0.10329509506233822
+      y: 0.6992366981077981
+      z: 0.6997937408499438
+      w: -0.10337738448330172
+- header:
+    stamp:
+      sec: 459
+      nanosec: 450000000
+    frame_id: /base_link
+  child_frame_id: /wheel_right_link
+  transform:
+    translation:
+      x: 0.0
+      y: -0.08
+      z: 0.023
+    rotation:
+      x: -0.6390883406454427
+      y: 0.30194027471618967
+      z: 0.3021808136339086
+      w: 0.6395974665576121
+---
+transforms:
+- header:
+    stamp:
+      sec: 459
+      nanosec: 460000000
+    frame_id: odom
+  child_frame_id: base_footprint
+  transform:
+    translation:
+      x: 0.06735917500970552
+      y: 1.5538657235067315
+      z: 0.0
+    rotation:
+      x: -0.0
+      y: 0.0
+      z: 0.726333573292687
+      w: -0.6873423748815992
+---
+transforms:
+- header:
+    stamp:
+      sec: 459
+      nanosec: 480000000
+    frame_id: odom
+  child_frame_id: base_footprint
+  transform:
+    translation:
+      x: 0.06735917500970552
+      y: 1.5538657235067315
+      z: 0.0
+    rotation:
+      x: -0.0
+      y: 0.0
+      z: 0.726333573292687
+      w: -0.6873423748815992
+---
+transforms:
+- header:
+    stamp:
+      sec: 459
+      nanosec: 500000000
+    frame_id: odom
+  child_frame_id: base_footprint
+  transform:
+    translation:
+      x: 0.06735917500970552
+      y: 1.5538657235067315
+      z: 0.0
+    rotation:
+      x: -0.0
+      y: 0.0
+      z: 0.726333573292687
+      w: -0.6873423748815992
+---
+transforms:
+- header:
+    stamp:
+      sec: 459
+      nanosec: 500000000
+    frame_id: /base_link
+  child_frame_id: /wheel_left_link
+  transform:
+    translation:
+      x: 0.0
+      y: 0.08
+      z: 0.023
+    rotation:
+      x: 0.10329509506233822
+      y: 0.6992366981077981
+      z: 0.6997937408499438
+      w: -0.10337738448330172
+- header:
+    stamp:
+      sec: 459
+      nanosec: 500000000
+    frame_id: /base_link
+  child_frame_id: /wheel_right_link
+  transform:
+    translation:
+      x: 0.0
+      y: -0.08
+      z: 0.023
+    rotation:
+      x: -0.6390883406454427
+      y: 0.30194027471618967
+      z: 0.3021808136339086
+      w: 0.6395974665576121
+---
+transforms:
+- header:
+    stamp:
+      sec: 459
+      nanosec: 520000000
+    frame_id: odom
+  child_frame_id: base_footprint
+  transform:
+    translation:
+      x: 0.06735917500970552
+      y: 1.5538657235067315
+      z: 0.0
+    rotation:
+      x: -0.0
+      y: 0.0
+      z: 0.726333573292687
+      w: -0.6873423748815992
+---
+transforms:
+- header:
+    stamp:
+      sec: 459
+      nanosec: 540000000
+    frame_id: odom
+  child_frame_id: base_footprint
+  transform:
+    translation:
+      x: 0.06735917500970552
+      y: 1.5538657235067315
+      z: 0.0
+    rotation:
+      x: -0.0
+      y: 0.0
+      z: 0.726333573292687
+      w: -0.6873423748815992
+---
+transforms:
+- header:
+    stamp:
+      sec: 459
+      nanosec: 550000000
+    frame_id: /base_link
+  child_frame_id: /wheel_left_link
+  transform:
+    translation:
+      x: 0.0
+      y: 0.08
+      z: 0.023
+    rotation:
+      x: 0.10329509506233822
+      y: 0.6992366981077981
+      z: 0.6997937408499438
+      w: -0.10337738448330172
+- header:
+    stamp:
+      sec: 459
+      nanosec: 550000000
+    frame_id: /base_link
+  child_frame_id: /wheel_right_link
+  transform:
+    translation:
+      x: 0.0
+      y: -0.08
+      z: 0.023
+    rotation:
+      x: -0.6390883406454427
+      y: 0.30194027471618967
+      z: 0.3021808136339086
+      w: 0.6395974665576121
+---
+transforms:
+- header:
+    stamp:
+      sec: 459
+      nanosec: 560000000
+    frame_id: odom
+  child_frame_id: base_footprint
+  transform:
+    translation:
+      x: 0.06735917500970552
+      y: 1.5538657235067315
+      z: 0.0
+    rotation:
+      x: -0.0
+      y: 0.0
+      z: 0.726333573292687
+      w: -0.6873423748815992
+---
+transforms:
+- header:
+    stamp:
+      sec: 459
+      nanosec: 580000000
+    frame_id: odom
+  child_frame_id: base_footprint
+  transform:
+    translation:
+      x: 0.06735917500970552
+      y: 1.5538657235067315
+      z: 0.0
+    rotation:
+      x: -0.0
+      y: 0.0
+      z: 0.726333573292687
+      w: -0.6873423748815992
+---
+transforms:
+- header:
+    stamp:
+      sec: 459
+      nanosec: 600000000
+    frame_id: odom
+  child_frame_id: base_footprint
+  transform:
+    translation:
+      x: 0.06735917500970552
+      y: 1.5538657235067315
+      z: 0.0
+    rotation:
+      x: -0.0
+      y: 0.0
+      z: 0.726333573292687
+      w: -0.6873423748815992
+---
+transforms:
+- header:
+    stamp:
+      sec: 459
+      nanosec: 600000000
+    frame_id: /base_link
+  child_frame_id: /wheel_left_link
+  transform:
+    translation:
+      x: 0.0
+      y: 0.08
+      z: 0.023
+    rotation:
+      x: 0.10329509506233822
+      y: 0.6992366981077981
+      z: 0.6997937408499438
+      w: -0.10337738448330172
+- header:
+    stamp:
+      sec: 459
+      nanosec: 600000000
+    frame_id: /base_link
+  child_frame_id: /wheel_right_link
+  transform:
+    translation:
+      x: 0.0
+      y: -0.08
+      z: 0.023
+    rotation:
+      x: -0.6390883406454427
+      y: 0.30194027471618967
+      z: 0.3021808136339086
+      w: 0.6395974665576121
+---
+transforms:
+- header:
+    stamp:
+      sec: 459
+      nanosec: 620000000
+    frame_id: odom
+  child_frame_id: base_footprint
+  transform:
+    translation:
+      x: 0.06735917500970552
+      y: 1.5538657235067315
+      z: 0.0
+    rotation:
+      x: -0.0
+      y: 0.0
+      z: 0.726333573292687
+      w: -0.6873423748815992
+---
+transforms:
+- header:
+    stamp:
+      sec: 459
+      nanosec: 640000000
+    frame_id: odom
+  child_frame_id: base_footprint
+  transform:
+    translation:
+      x: 0.06735917500970552
+      y: 1.5538657235067315
+      z: 0.0
+    rotation:
+      x: -0.0
+      y: 0.0
+      z: 0.726333573292687
+      w: -0.6873423748815992
+---
+transforms:
+- header:
+    stamp:
+      sec: 459
+      nanosec: 650000000
+    frame_id: /base_link
+  child_frame_id: /wheel_left_link
+  transform:
+    translation:
+      x: 0.0
+      y: 0.08
+      z: 0.023
+    rotation:
+      x: 0.10329509506233822
+      y: 0.6992366981077981
+      z: 0.6997937408499438
+      w: -0.10337738448330172
+- header:
+    stamp:
+      sec: 459
+      nanosec: 650000000
+    frame_id: /base_link
+  child_frame_id: /wheel_right_link
+  transform:
+    translation:
+      x: 0.0
+      y: -0.08
+      z: 0.023
+    rotation:
+      x: -0.6390883406454427
+      y: 0.30194027471618967
+      z: 0.3021808136339086
+      w: 0.6395974665576121
+---
+transforms:
+- header:
+    stamp:
+      sec: 459
+      nanosec: 660000000
+    frame_id: odom
+  child_frame_id: base_footprint
+  transform:
+    translation:
+      x: 0.06735917500970552
+      y: 1.5538657235067315
+      z: 0.0
+    rotation:
+      x: -0.0
+      y: 0.0
+      z: 0.726333573292687
+      w: -0.6873423748815992
+---
+transforms:
+- header:
+    stamp:
+      sec: 459
+      nanosec: 680000000
+    frame_id: odom
+  child_frame_id: base_footprint
+  transform:
+    translation:
+      x: 0.06735917500970552
+      y: 1.5538657235067315
+      z: 0.0
+    rotation:
+      x: -0.0
+      y: 0.0
+      z: 0.726333573292687
+      w: -0.6873423748815992
+---
+transforms:
+- header:
+    stamp:
+      sec: 459
+      nanosec: 700000000
+    frame_id: odom
+  child_frame_id: base_footprint
+  transform:
+    translation:
+      x: 0.06735917500970552
+      y: 1.5538657235067315
+      z: 0.0
+    rotation:
+      x: -0.0
+      y: 0.0
+      z: 0.726333573292687
+      w: -0.6873423748815992
+---
+transforms:
+- header:
+    stamp:
+      sec: 459
+      nanosec: 700000000
+    frame_id: /base_link
+  child_frame_id: /wheel_left_link
+  transform:
+    translation:
+      x: 0.0
+      y: 0.08
+      z: 0.023
+    rotation:
+      x: 0.10329509506233822
+      y: 0.6992366981077981
+      z: 0.6997937408499438
+      w: -0.10337738448330172
+- header:
+    stamp:
+      sec: 459
+      nanosec: 700000000
+    frame_id: /base_link
+  child_frame_id: /wheel_right_link
+  transform:
+    translation:
+      x: 0.0
+      y: -0.08
+      z: 0.023
+    rotation:
+      x: -0.6390883406454427
+      y: 0.30194027471618967
+      z: 0.3021808136339086
+      w: 0.6395974665576121
+---
+transforms:
+- header:
+    stamp:
+      sec: 459
+      nanosec: 720000000
+    frame_id: odom
+  child_frame_id: base_footprint
+  transform:
+    translation:
+      x: 0.06735917500970552
+      y: 1.5538657235067315
+      z: 0.0
+    rotation:
+      x: -0.0
+      y: 0.0
+      z: 0.726333573292687
+      w: -0.6873423748815992
+---
+transforms:
+- header:
+    stamp:
+      sec: 459
+      nanosec: 740000000
+    frame_id: odom
+  child_frame_id: base_footprint
+  transform:
+    translation:
+      x: 0.06735917500970552
+      y: 1.5538657235067315
+      z: 0.0
+    rotation:
+      x: -0.0
+      y: 0.0
+      z: 0.726333573292687
+      w: -0.6873423748815992
+---
+transforms:
+- header:
+    stamp:
+      sec: 459
+      nanosec: 750000000
+    frame_id: /base_link
+  child_frame_id: /wheel_left_link
+  transform:
+    translation:
+      x: 0.0
+      y: 0.08
+      z: 0.023
+    rotation:
+      x: 0.10329509506233822
+      y: 0.6992366981077981
+      z: 0.6997937408499438
+      w: -0.10337738448330172
+- header:
+    stamp:
+      sec: 459
+      nanosec: 750000000
+    frame_id: /base_link
+  child_frame_id: /wheel_right_link
+  transform:
+    translation:
+      x: 0.0
+      y: -0.08
+      z: 0.023
+    rotation:
+      x: -0.6390883406454427
+      y: 0.30194027471618967
+      z: 0.3021808136339086
+      w: 0.6395974665576121
+---
+transforms:
+- header:
+    stamp:
+      sec: 459
+      nanosec: 760000000
+    frame_id: odom
+  child_frame_id: base_footprint
+  transform:
+    translation:
+      x: 0.06735917500970552
+      y: 1.5538657235067315
+      z: 0.0
+    rotation:
+      x: -0.0
+      y: 0.0
+      z: 0.726333573292687
+      w: -0.6873423748815992
+---
+transforms:
+- header:
+    stamp:
+      sec: 459
+      nanosec: 780000000
+    frame_id: odom
+  child_frame_id: base_footprint
+  transform:
+    translation:
+      x: 0.06735917500970552
+      y: 1.5538657235067315
+      z: 0.0
+    rotation:
+      x: -0.0
+      y: 0.0
+      z: 0.726333573292687
+      w: -0.6873423748815992
+---
+transforms:
+- header:
+    stamp:
+      sec: 459
+      nanosec: 800000000
+    frame_id: odom
+  child_frame_id: base_footprint
+  transform:
+    translation:
+      x: 0.06735917500970552
+      y: 1.5538657235067315
+      z: 0.0
+    rotation:
+      x: -0.0
+      y: 0.0
+      z: 0.726333573292687
+      w: -0.6873423748815992
+---
+transforms:
+- header:
+    stamp:
+      sec: 459
+      nanosec: 800000000
+    frame_id: /base_link
+  child_frame_id: /wheel_left_link
+  transform:
+    translation:
+      x: 0.0
+      y: 0.08
+      z: 0.023
+    rotation:
+      x: 0.10329509506233822
+      y: 0.6992366981077981
+      z: 0.6997937408499438
+      w: -0.10337738448330172
+- header:
+    stamp:
+      sec: 459
+      nanosec: 800000000
+    frame_id: /base_link
+  child_frame_id: /wheel_right_link
+  transform:
+    translation:
+      x: 0.0
+      y: -0.08
+      z: 0.023
+    rotation:
+      x: -0.6390883406454427
+      y: 0.30194027471618967
+      z: 0.3021808136339086
+      w: 0.6395974665576121
+---
+transforms:
+- header:
+    stamp:
+      sec: 459
+      nanosec: 820000000
+    frame_id: odom
+  child_frame_id: base_footprint
+  transform:
+    translation:
+      x: 0.06735917500970552
+      y: 1.5538657235067315
+      z: 0.0
+    rotation:
+      x: -0.0
+      y: 0.0
+      z: 0.726333573292687
+      w: -0.6873423748815992
+---
+transforms:
+- header:
+    stamp:
+      sec: 459
+      nanosec: 840000000
+    frame_id: odom
+  child_frame_id: base_footprint
+  transform:
+    translation:
+      x: 0.06735917500970552
+      y: 1.5538657235067315
+      z: 0.0
+    rotation:
+      x: -0.0
+      y: 0.0
+      z: 0.726333573292687
+      w: -0.6873423748815992
+---
+transforms:
+- header:
+    stamp:
+      sec: 459
+      nanosec: 850000000
+    frame_id: /base_link
+  child_frame_id: /wheel_left_link
+  transform:
+    translation:
+      x: 0.0
+      y: 0.08
+      z: 0.023
+    rotation:
+      x: 0.10329509506233822
+      y: 0.6992366981077981
+      z: 0.6997937408499438
+      w: -0.10337738448330172
+- header:
+    stamp:
+      sec: 459
+      nanosec: 850000000
+    frame_id: /base_link
+  child_frame_id: /wheel_right_link
+  transform:
+    translation:
+      x: 0.0
+      y: -0.08
+      z: 0.023
+    rotation:
+      x: -0.6390883406454427
+      y: 0.30194027471618967
+      z: 0.3021808136339086
+      w: 0.6395974665576121
+---
+transforms:
+- header:
+    stamp:
+      sec: 459
+      nanosec: 860000000
+    frame_id: odom
+  child_frame_id: base_footprint
+  transform:
+    translation:
+      x: 0.06735917500970552
+      y: 1.5538657235067315
+      z: 0.0
+    rotation:
+      x: -0.0
+      y: 0.0
+      z: 0.726333573292687
+      w: -0.6873423748815992
+---
+transforms:
+- header:
+    stamp:
+      sec: 459
+      nanosec: 880000000
+    frame_id: odom
+  child_frame_id: base_footprint
+  transform:
+    translation:
+      x: 0.06735917500970552
+      y: 1.5538657235067315
+      z: 0.0
+    rotation:
+      x: -0.0
+      y: 0.0
+      z: 0.726333573292687
+      w: -0.6873423748815992
+---
+transforms:
+- header:
+    stamp:
+      sec: 459
+      nanosec: 900000000
+    frame_id: /base_link
+  child_frame_id: /wheel_left_link
+  transform:
+    translation:
+      x: 0.0
+      y: 0.08
+      z: 0.023
+    rotation:
+      x: 0.10329509506233822
+      y: 0.6992366981077981
+      z: 0.6997937408499438
+      w: -0.10337738448330172
+- header:
+    stamp:
+      sec: 459
+      nanosec: 900000000
+    frame_id: /base_link
+  child_frame_id: /wheel_right_link
+  transform:
+    translation:
+      x: 0.0
+      y: -0.08
+      z: 0.023
+    rotation:
+      x: -0.6390883406454427
+      y: 0.30194027471618967
+      z: 0.3021808136339086
+      w: 0.6395974665576121
+---
+transforms:
+- header:
+    stamp:
+      sec: 459
+      nanosec: 900000000
+    frame_id: odom
+  child_frame_id: base_footprint
+  transform:
+    translation:
+      x: 0.06735917500970552
+      y: 1.5538657235067315
+      z: 0.0
+    rotation:
+      x: -0.0
+      y: 0.0
+      z: 0.726333573292687
+      w: -0.6873423748815992
+---
+transforms:
+- header:
+    stamp:
+      sec: 459
+      nanosec: 920000000
+    frame_id: odom
+  child_frame_id: base_footprint
+  transform:
+    translation:
+      x: 0.06735917500970552
+      y: 1.5538657235067315
+      z: 0.0
+    rotation:
+      x: -0.0
+      y: 0.0
+      z: 0.726333573292687
+      w: -0.6873423748815992
+---
+transforms:
+- header:
+    stamp:
+      sec: 459
+      nanosec: 940000000
+    frame_id: odom
+  child_frame_id: base_footprint
+  transform:
+    translation:
+      x: 0.06735917500970552
+      y: 1.5538657235067315
+      z: 0.0
+    rotation:
+      x: -0.0
+      y: 0.0
+      z: 0.726333573292687
+      w: -0.6873423748815992
+---
+transforms:
+- header:
+    stamp:
+      sec: 459
+      nanosec: 950000000
+    frame_id: /base_link
+  child_frame_id: /wheel_left_link
+  transform:
+    translation:
+      x: 0.0
+      y: 0.08
+      z: 0.023
+    rotation:
+      x: 0.10329509506233822
+      y: 0.6992366981077981
+      z: 0.6997937408499438
+      w: -0.10337738448330172
+- header:
+    stamp:
+      sec: 459
+      nanosec: 950000000
+    frame_id: /base_link
+  child_frame_id: /wheel_right_link
+  transform:
+    translation:
+      x: 0.0
+      y: -0.08
+      z: 0.023
+    rotation:
+      x: -0.6390883406454427
+      y: 0.30194027471618967
+      z: 0.3021808136339086
+      w: 0.6395974665576121
+---
+transforms:
+- header:
+    stamp:
+      sec: 459
+      nanosec: 960000000
+    frame_id: odom
+  child_frame_id: base_footprint
+  transform:
+    translation:
+      x: 0.06735917500970552
+      y: 1.5538657235067315
+      z: 0.0
+    rotation:
+      x: -0.0
+      y: 0.0
+      z: 0.726333573292687
+      w: -0.6873423748815992
+---
+transforms:
+- header:
+    stamp:
+      sec: 459
+      nanosec: 980000000
+    frame_id: odom
+  child_frame_id: base_footprint
+  transform:
+    translation:
+      x: 0.06735917500970552
+      y: 1.5538657235067315
+      z: 0.0
+    rotation:
+      x: -0.0
+      y: 0.0
+      z: 0.726333573292687
+      w: -0.6873423748815992
+---
+transforms:
+- header:
+    stamp:
+      sec: 460
+      nanosec: 0
+    frame_id: /base_link
+  child_frame_id: /wheel_left_link
+  transform:
+    translation:
+      x: 0.0
+      y: 0.08
+      z: 0.023
+    rotation:
+      x: 0.10329509506233822
+      y: 0.6992366981077981
+      z: 0.6997937408499438
+      w: -0.10337738448330172
+- header:
+    stamp:
+      sec: 460
+      nanosec: 0
+    frame_id: /base_link
+  child_frame_id: /wheel_right_link
+  transform:
+    translation:
+      x: 0.0
+      y: -0.08
+      z: 0.023
+    rotation:
+      x: -0.6390883406454427
+      y: 0.30194027471618967
+      z: 0.3021808136339086
+      w: 0.6395974665576121
+---
+transforms:
+- header:
+    stamp:
+      sec: 460
+      nanosec: 0
+    frame_id: odom
+  child_frame_id: base_footprint
+  transform:
+    translation:
+      x: 0.06735917500970552
+      y: 1.5538657235067315
+      z: 0.0
+    rotation:
+      x: -0.0
+      y: 0.0
+      z: 0.726333573292687
+      w: -0.6873423748815992
+---
+transforms:
+- header:
+    stamp:
+      sec: 460
+      nanosec: 20000000
+    frame_id: odom
+  child_frame_id: base_footprint
+  transform:
+    translation:
+      x: 0.06735917500970552
+      y: 1.5538657235067315
+      z: 0.0
+    rotation:
+      x: -0.0
+      y: 0.0
+      z: 0.726333573292687
+      w: -0.6873423748815992
+---
+header:
+  stamp:
+    sec: 725
+    nanosec: 0
+  frame_id: base_scan
+angle_min: 0.0
+angle_max: 6.28000020980835
+angle_increment: 0.01749303564429283
+time_increment: 0.0
+scan_time: 0.0
+range_min: 0.11999999731779099
+range_max: 3.5
+ranges:
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- '...'
+intensities:
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- '...'
+---
+header:
+  stamp:
+    sec: 725
+    nanosec: 200000000
+  frame_id: base_scan
+angle_min: 0.0
+angle_max: 6.28000020980835
+angle_increment: 0.01749303564429283
+time_increment: 0.0
+scan_time: 0.0
+range_min: 0.11999999731779099
+range_max: 3.5
+ranges:
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- '...'
+intensities:
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- '...'
+---
+header:
+  stamp:
+    sec: 725
+    nanosec: 400000000
+  frame_id: base_scan
+angle_min: 0.0
+angle_max: 6.28000020980835
+angle_increment: 0.01749303564429283
+time_increment: 0.0
+scan_time: 0.0
+range_min: 0.11999999731779099
+range_max: 3.5
+ranges:
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- '...'
+intensities:
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- '...'
+---
+header:
+  stamp:
+    sec: 725
+    nanosec: 600000000
+  frame_id: base_scan
+angle_min: 0.0
+angle_max: 6.28000020980835
+angle_increment: 0.01749303564429283
+time_increment: 0.0
+scan_time: 0.0
+range_min: 0.11999999731779099
+range_max: 3.5
+ranges:
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- '...'
+intensities:
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- '...'
+---
+header:
+  stamp:
+    sec: 725
+    nanosec: 800000000
+  frame_id: base_scan
+angle_min: 0.0
+angle_max: 6.28000020980835
+angle_increment: 0.01749303564429283
+time_increment: 0.0
+scan_time: 0.0
+range_min: 0.11999999731779099
+range_max: 3.5
+ranges:
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- .inf
+- '...'
+intensities:
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- '...'
+---

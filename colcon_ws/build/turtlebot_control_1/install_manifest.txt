@@ -1,0 +1,16 @@
+/home/user05/colcon_ws/install/turtlebot_control_1/lib/turtlebot_control_1/avoidance.py
+/home/user05/colcon_ws/install/turtlebot_control_1/share/ament_index/resource_index/package_run_dependencies/turtlebot_control_1
+/home/user05/colcon_ws/install/turtlebot_control_1/share/ament_index/resource_index/parent_prefix_path/turtlebot_control_1
+/home/user05/colcon_ws/install/turtlebot_control_1/share/turtlebot_control_1/environment/ament_prefix_path.sh
+/home/user05/colcon_ws/install/turtlebot_control_1/share/turtlebot_control_1/environment/ament_prefix_path.dsv
+/home/user05/colcon_ws/install/turtlebot_control_1/share/turtlebot_control_1/environment/path.sh
+/home/user05/colcon_ws/install/turtlebot_control_1/share/turtlebot_control_1/environment/path.dsv
+/home/user05/colcon_ws/install/turtlebot_control_1/share/turtlebot_control_1/local_setup.bash
+/home/user05/colcon_ws/install/turtlebot_control_1/share/turtlebot_control_1/local_setup.sh
+/home/user05/colcon_ws/install/turtlebot_control_1/share/turtlebot_control_1/local_setup.zsh
+/home/user05/colcon_ws/install/turtlebot_control_1/share/turtlebot_control_1/local_setup.dsv
+/home/user05/colcon_ws/install/turtlebot_control_1/share/turtlebot_control_1/package.dsv
+/home/user05/colcon_ws/install/turtlebot_control_1/share/ament_index/resource_index/packages/turtlebot_control_1
+/home/user05/colcon_ws/install/turtlebot_control_1/share/turtlebot_control_1/cmake/turtlebot_control_1Config.cmake
+/home/user05/colcon_ws/install/turtlebot_control_1/share/turtlebot_control_1/cmake/turtlebot_control_1Config-version.cmake
+/home/user05/colcon_ws/install/turtlebot_control_1/share/turtlebot_control_1/package.xml

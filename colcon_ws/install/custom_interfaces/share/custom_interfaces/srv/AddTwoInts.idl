@@ -1,0 +1,18 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from custom_interfaces/srv/AddTwoInts.srv
+// generated code does not contain a copyright notice
+
+#include "custom_interfaces/msg/Num.idl"
+
+module custom_interfaces {
+  module srv {
+    struct AddTwoInts_Request {
+      custom_interfaces::msg::Num a;
+
+      custom_interfaces::msg::Num b;
+    };
+    struct AddTwoInts_Response {
+      custom_interfaces::msg::Num sum;
+    };
+  };
+};

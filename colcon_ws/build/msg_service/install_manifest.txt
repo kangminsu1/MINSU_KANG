@@ -1,0 +1,15 @@
+/home/user05/colcon_ws/install/msg_service/share/ament_index/resource_index/package_run_dependencies/msg_service
+/home/user05/colcon_ws/install/msg_service/share/ament_index/resource_index/parent_prefix_path/msg_service
+/home/user05/colcon_ws/install/msg_service/share/msg_service/environment/ament_prefix_path.sh
+/home/user05/colcon_ws/install/msg_service/share/msg_service/environment/ament_prefix_path.dsv
+/home/user05/colcon_ws/install/msg_service/share/msg_service/environment/path.sh
+/home/user05/colcon_ws/install/msg_service/share/msg_service/environment/path.dsv
+/home/user05/colcon_ws/install/msg_service/share/msg_service/local_setup.bash
+/home/user05/colcon_ws/install/msg_service/share/msg_service/local_setup.sh
+/home/user05/colcon_ws/install/msg_service/share/msg_service/local_setup.zsh
+/home/user05/colcon_ws/install/msg_service/share/msg_service/local_setup.dsv
+/home/user05/colcon_ws/install/msg_service/share/msg_service/package.dsv
+/home/user05/colcon_ws/install/msg_service/share/ament_index/resource_index/packages/msg_service
+/home/user05/colcon_ws/install/msg_service/share/msg_service/cmake/msg_serviceConfig.cmake
+/home/user05/colcon_ws/install/msg_service/share/msg_service/cmake/msg_serviceConfig-version.cmake
+/home/user05/colcon_ws/install/msg_service/share/msg_service/package.xml

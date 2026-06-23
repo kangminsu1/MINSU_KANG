@@ -1,0 +1,5 @@
+[console_scripts]
+listener = pubscore_5.listener:main
+processor = pubscore_5.processor:main
+publisher = pubscore_5.publisher:main
+talker = pubscore_5.talker:main

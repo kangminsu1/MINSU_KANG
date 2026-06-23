@@ -1,0 +1,8 @@
+source;share/srvmsg/hook/cmake_prefix_path.ps1
+source;share/srvmsg/hook/cmake_prefix_path.dsv
+source;share/srvmsg/hook/cmake_prefix_path.sh
+source;share/srvmsg/local_setup.bash
+source;share/srvmsg/local_setup.dsv
+source;share/srvmsg/local_setup.ps1
+source;share/srvmsg/local_setup.sh
+source;share/srvmsg/local_setup.zsh

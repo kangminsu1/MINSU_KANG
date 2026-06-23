@@ -1,0 +1,7 @@
+{
+  "package_name": "custom_interfaces",
+  "non_idl_tuples": [
+    "/home/user05/colcon_ws/src/5_custom_interfaces:msg/Num.msg",
+    "/home/user05/colcon_ws/src/5_custom_interfaces:srv/AddTwoInts.srv"
+  ]
+}

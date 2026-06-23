@@ -1,0 +1,4 @@
+source;share/srvmsg/local_setup.bash
+source;share/srvmsg/local_setup.dsv
+source;share/srvmsg/local_setup.sh
+source;share/srvmsg/local_setup.zsh
